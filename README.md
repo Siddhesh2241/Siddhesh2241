@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Siddhesh Nikam</h1>
-<h3 align="center">A passionate Data scientist and ML developer from Indiaa</h3>
+<h3 align="center">A passionate Data scientist and ML developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=siddhesh2241&label=Profile%20views&color=0e75b6&style=flat" alt="siddhesh2241" /> </p>
 
